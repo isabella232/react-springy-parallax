@@ -22,8 +22,9 @@
   },
   "homepage": "https://github.com/drcmda/react-springy-parallax#readme",
   "dependencies": {
-    "react-dom-animated": "^1.0.3",
-    "prop-types": "^15.6.0"
+    "lodash.throttle": "^4.1.1",
+    "prop-types": "^15.6.0",
+    "react-dom-animated": "^1.0.3"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
