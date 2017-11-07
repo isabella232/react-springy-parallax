@@ -11,10 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/drcmda/react-springy-parallax.git"
   },
-  "keywords": [
-    "parallax",
-    "spring"
-  ],
+  "keywords": ["parallax", "spring"],
   "author": "Paul Henschel",
   "license": "ISC",
   "bugs": {
@@ -22,9 +19,9 @@
   },
   "homepage": "https://github.com/drcmda/react-springy-parallax#readme",
   "dependencies": {
-    "lodash.throttle": "^4.1.1",
-    "prop-types": "^15.6.0",
-    "react-dom-animated": "^1.0.3"
+    "lodash.throttle": "4.1.1",
+    "prop-types": "15.6.0",
+    "react-dom-animated": "viewsdx/react-dom-animated"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
@@ -33,10 +30,6 @@
     "babel-preset-stage-0": "^6.24.1"
   },
   "babel": {
-    "presets": [
-      "es2015",
-      "stage-0",
-      "react"
-    ]
+    "presets": ["es2015", "stage-0", "react"]
   }
 }
